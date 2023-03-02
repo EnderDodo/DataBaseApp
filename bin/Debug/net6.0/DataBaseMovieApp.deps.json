@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataBaseMovieApp/1.0.0": {
+        "runtime": {
+          "DataBaseMovieApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataBaseMovieApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
